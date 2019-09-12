@@ -1,0 +1,23 @@
+
+.a{
+    background-image: url(https://ak7.picdn.net/shutterstock/videos/9521207/thumb/1.jpg);
+    height:100vh;
+}
+
+  
+    hr { 
+        display: block;
+        overflow: hidden;
+        border-style: inset;
+        border-width: 2px;
+  
+    
+  }
+
+.contentt{
+    margin-left:2vw;
+}
+
+.text-jumbo{
+
+}
